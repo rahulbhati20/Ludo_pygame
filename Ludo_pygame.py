@@ -4,7 +4,7 @@ import random
 import time  
 import sys
 import pygame.locals as pygame_locals
-import  Ludo_pygame_Main.ui as ui
+import   ui
 import tkinter as tk
 
 # Initializing pygame2
